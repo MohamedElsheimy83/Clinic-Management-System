@@ -21,9 +21,9 @@ Function to display patient data.
 
 ## Data structures used:  
 
- Map : to save the user's login information (username and password) and allow quick access to the value using the key.  
+ **Map** : to save the user's login information (username and password) and allow quick access to the value using the key.  
 
- Linked List: to store patients efficiently because linked lists allow for better memory usage (memory allocation), they are more efficient than arrays. Unlike arrays, the size of a linked list is not predefined, allowing the linked list to grow or shrink in size easily.  
+ **Linked List**: to store patients efficiently because linked lists allow for better memory usage (memory allocation), they are more efficient than arrays. Unlike arrays, the size of a linked list is not predefined, allowing the linked list to grow or shrink in size easily.  
 
- Queue : to manage the waiting list (FIFO).  
+ **Queue** : to manage the waiting list (FIFO).  
  
