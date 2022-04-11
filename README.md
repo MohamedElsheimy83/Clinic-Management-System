@@ -16,7 +16,7 @@ This program can be developed for use in a hospital or even to meet the requirem
 ## Classes  
 
 Class Patient :  
-Attributes > id, nom, prénom, téléphone.  
+Attributs > id, nom, prénom, téléphone.  
 Function to display patient data.  
 
 ## Data structures used:  
