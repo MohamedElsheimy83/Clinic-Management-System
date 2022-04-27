@@ -1,5 +1,5 @@
-# Clinic-Management-System-Project
-
+# Clinic-Management-System
+C++
 
 
 ## Context of the Project  
